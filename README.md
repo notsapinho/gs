@@ -2,6 +2,8 @@
 
 Este circuito foi projetado para medir o nível da água para ajudar na prevenção de alagamentos. Ele utiliza um sensor de nível de água(um potênciometro no simulador), um buzzer, um LCD e um LED. O intuito é que apos um certo nível de água, o buzzer e o LED sejam acionados para alertar sobre o risco de alagamento.
 
+![image](https://github.com/user-attachments/assets/6fb029b3-a4f1-4fa0-bef6-e51ffe287343)
+
 # Links
 
 -   [Simulador](https://www.tinkercad.com/things/eFpdYqzT26p-gs?sharecode=JErWxBLrjQNUvE7nULiuWI-55tWioVX0-62ipmXsgaU)
